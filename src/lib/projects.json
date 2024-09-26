@@ -1,23 +1,23 @@
 [
     {
         "title": "Example",
-        "image": "",
-        "desciption": "Blah text"
+        "image": "https:/dig.cmu.edu/datavis-fall-2024/labs/2/images/empty.svg",
+        "description": "Blah text"
     },
     {
-        "title": "Example",
-        "image": "",
-        "desciption": "Blah text"
+        "title": "Example2",
+        "image": "https:/dig.cmu.edu/datavis-fall-2024/labs/2/images/empty.svg",
+        "description": "Blah text"
     },
     {
-        "title": "Example",
-        "image": "",
-        "desciption": "Blah text"
+        "title": "Example3",
+        "image": "https:/dig.cmu.edu/datavis-fall-2024/labs/2/images/empty.svg",
+        "description": "Blah text"
     },
     {
-        "title": "Example",
-        "image": "",
-        "desciption": "Blah text"
+        "title": "Example4",
+        "image": "https:/dig.cmu.edu/datavis-fall-2024/labs/2/images/empty.svg",
+        "description": "Blah text"
     }
 
 ]

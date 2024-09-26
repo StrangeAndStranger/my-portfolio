@@ -10,14 +10,15 @@ function $$ (selector, context = document) {
 // currentLink?.classList.add("current");
 
 let pages = [
-    {url: "", title: "Home"},
+    {url: "/", title: "Home"},
     {url: "contact/", title: "Contacts"},
-    {url: "CV/", title: "CV"},
-    {url: "projects/", title: "Projects"}
+    {url: "cv/", title: "CV"},
+    {url: "projects/", title: "Projects"},
+    {url: "https://github.com/StrangeAndStranger", title: "Github Profile"}
 ];
 
 let nav2 = document.createElement("nav");
-document.body.append(nav2);
+document.body.prepend(nav2);
 
 for (let p of pages) {
     let url = p.url;

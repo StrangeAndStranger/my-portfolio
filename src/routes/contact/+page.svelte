@@ -1,8 +1,21 @@
 <svelte:head>
 	<title>Contact me</title>
 </svelte:head>
-<body>
+
     <h1>Contacts Page</h1>
+
+    <form action="mailto:agerald@andrew.cmu.edu" method="POST" enctype="text/plain">
+        <label for="email">Email: </label>
+        <input type="email" name="email"/>
+    
+        <label for="subject">Subject: </label>
+        <input type="text" name="subject"/>
+    
+        <label for="body">Body: </label>
+        <textarea name="body"></textarea>
+    
+        <button type="submit">Submit</button>
+    </form>
 
     <!-- <nav>
         <ol>
@@ -13,5 +26,3 @@
             <li><a href="https://github.com/StrangeAndStranger" target="_blank">GitHub Profile</a></li>
         </ol>
     </nav> -->
-    
-</body>

@@ -1,8 +1,9 @@
 <svelte:head>
 	<title>Current CV</title>
 </svelte:head>
-<body>
-    <h1>CV Page</h1>
+
+<h1>CV Page</h1>
+<!-- <body> -->
 
     <!-- <nav>
         <ol>
@@ -14,4 +15,4 @@
         </ol>
     </nav> -->
     
-</body>
+<!-- </body> -->
