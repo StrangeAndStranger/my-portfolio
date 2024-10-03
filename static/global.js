@@ -2,15 +2,17 @@ console.log("IT’S ALIVE!");
 
 function $$ (selector, context = document) {
     
-    let select = document.querySelector(selector);
-    select.addEventListener("input", function (event) {
-        console.log("color scheme changed to", event.target.value);
+    // let select = document.querySelector(selector);
+    // select.addEventListener("input", function (event) {
+    //     console.log("color scheme changed to", event.target.value);
 
-        document.documentElement.style.setProperty("color-scheme", event.target.value);
-    });
+    //     document.documentElement.style.setProperty("color-scheme", event.target.value);
+    // });
 
 	return Array.from(context.querySelectorAll(selector));
 }
+
+let profileData = fetch("https://api.github.com/users/StrangeAndStranger");
 
 // let navLinks = $$("nav a");
 

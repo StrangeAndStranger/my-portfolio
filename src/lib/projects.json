@@ -1,21 +1,55 @@
 [
     {
         "title": "Example",
+        "year": "2020",
         "image": "https:/dig.cmu.edu/datavis-fall-2024/labs/2/images/empty.svg",
         "description": "Blah text"
     },
     {
         "title": "Example2",
+        "year": "2023",
         "image": "https:/dig.cmu.edu/datavis-fall-2024/labs/2/images/empty.svg",
         "description": "Blah text"
     },
     {
         "title": "Example3",
+        "year": "2020",
         "image": "https:/dig.cmu.edu/datavis-fall-2024/labs/2/images/empty.svg",
         "description": "Blah text"
     },
     {
         "title": "Example4",
+        "year": "2020",
+        "image": "https:/dig.cmu.edu/datavis-fall-2024/labs/2/images/empty.svg",
+        "description": "Blah text"
+    },
+    {
+        "title": "Example5",
+        "year": "2021",
+        "image": "https:/dig.cmu.edu/datavis-fall-2024/labs/2/images/empty.svg",
+        "description": "Blah text"
+    },
+    {
+        "title": "Example6",
+        "year": "2021",
+        "image": "https:/dig.cmu.edu/datavis-fall-2024/labs/2/images/empty.svg",
+        "description": "Blah text"
+    },
+    {
+        "title": "Example7",
+        "year": "2022",
+        "image": "https:/dig.cmu.edu/datavis-fall-2024/labs/2/images/empty.svg",
+        "description": "Blah text"
+    },
+    {
+        "title": "Example8",
+        "year": "2024",
+        "image": "https:/dig.cmu.edu/datavis-fall-2024/labs/2/images/empty.svg",
+        "description": "Blah text"
+    },
+    {
+        "title": "Example9",
+        "year": "2019",
         "image": "https:/dig.cmu.edu/datavis-fall-2024/labs/2/images/empty.svg",
         "description": "Blah text"
     }
