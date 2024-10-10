@@ -5,6 +5,7 @@
         {url: "contact/", title: "Contacts"},
         {url: "cv/", title: "CV"},
         {url: "projects/", title: "Projects"},
+        {url: "meta/", title: "Meta"},
         {url: "https://github.com/StrangeAndStranger", title: "Github Profile"}
     ];
 
